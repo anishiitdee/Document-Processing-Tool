@@ -1,0 +1,445 @@
+('1', 0, 0, 1, 0) VOL.1: 1884 30 NOVEMBER, 1896 1
+('1', 0, 1, 2, 32) 1. A CONFESSION 1
+('1', 0, 2, 3, 50) [1884] I wrote it on a slip of paper and handed it to him myself.
+('1', 0, 2, 4, 116) In this note not only did I confess my guilt, but I asked adequate punishment for it, and closed with a request to him not to punish himself for my offence.
+('1', 0, 2, 5, 273) I also pledged myself never to steal in future.
+('1', 0, 3, 6, 321) An Autobiography, Pt. I, Ch. VIII
+('1', 0, 4, 7, 355) 2. SPEECH AT ALFRED HIGH SCHOOL, RAJKOT 3
+('1', 0, 5, 8, 397) July 4, 1888 I hope that some of you will follow in my footsteps, and after you return from England you will work wholeheartedly for big reforms in India.
+('1', 0, 6, 9, 552) [From Gujarati] Kethiawar Times, 12 7 1888
+('1', 0, 7, 10, 595) 1 When Gandhiji was 15, he had removed a bit of gold from his brothers armlet to clear a small debt of the latter.
+('1', 0, 7, 11, 710) He felt so mortified about his act that he decided to make a confession to his father.
+('1', 0, 7, 12, 797) Parental forgiveness was granted to him in the form of silent tears.
+('1', 0, 7, 13, 866) The incident left a lasting mark on his mind.
+('1', 0, 7, 14, 912) In his own words, it was an object lesson to him in the power of ahimsa.
+('1', 0, 7, 15, 985) The original not being available; his own report of it, as found in An Autobiography, is reproduced here.
+('1', 0, 7, 16, 1091) 2 According to Mahatma Gandhi : The Early Phase, p.
+('1', 0, 7, 17, 1143) 212, one of the senten ces in the confession was : So, father, your son is now, in your eyes, no better than a common thief. 3 Gandhiji was given a send off by his fellow students of the Alfred High School, Rajkot, when he was leaving for England to study for the Bar.
+('1', 0, 7, 18, 1412) In An Autobiography, Pt. I, Ch. XI, he says : I had written out a few words of thanks.
+('1', 0, 7, 19, 1499) But I could scarcely stammer them out.
+('1', 0, 7, 20, 1538) I remember how my head reeled and how my whole frame shook as I stood up to read them.
+('1', 1, 0, 1, 1625) 2 THE COLLECTED WORKS OF MAHATMA GANDHI
+('1', 1, 1, 2, 1665) 3. LETTER TO LAKSHMIDAS GANDHI
+('1', 1, 2, 3, 1696) LONDON, Friday, November 9, 1888
+('1', 1, 3, 4, 1729) RESPECTED BROTHER, I am sorry that there has been no letter from you for the last two or three weeks.
+('1', 1, 3, 5, 1831) Your silence is due perhaps to your not having heard from me.
+('1', 1, 3, 6, 1893) But it was impossible for me to post any letters before I reached London.
+('1', 1, 3, 7, 1967) That you should not have written to me on that account is indeed surprising.
+('1', 1, 3, 8, 2044) As I am far from home we can meet only through letters.
+('1', 1, 3, 9, 2100) And if I do not get letters I feel very much worried.
+('1', 1, 3, 10, 2154) Therefore please drop a postcard every week without fail.
+('1', 1, 3, 11, 2212) I would not have been anxious if you did not have my address.
+('1', 1, 3, 12, 2274) But I am sorry that you have stopped writing after having written to me twice.
+('1', 1, 3, 13, 2353) I joined the Inner Temple on Tuesday last.
+('1', 1, 3, 14, 2396) I will write in detail after I hear from you next week.
+('1', 1, 3, 15, 2452) The cold here is now bitter but such bad weather generally does not last long.
+('1', 1, 3, 16, 2531) In spite of the cold I have no need of meat or liquor.
+('1', 1, 3, 17, 2586) This fills my heart with joy and thankfulness.
+('1', 1, 3, 18, 2633) I am now keeping very good health.
+('1', 1, 3, 19, 2668) Please give my respects to mother and sister in law.
+('1', 1, 4, 20, 2721) Mahatma, Vol. I; also from a photostat of the Gujarati
+('1', 1, 5, 21, 2776) 4. LONDON DIARY 1
+('1', 1, 6, 22, 2794) LONDON, November, 12 1888 What led to the intention of proceeding to London?
+('1', 1, 6, 23, 2871) The scene opens about the end of April.
+('1', 1, 6, 24, 2911) Before the intention of coming to London for the sake of study was actually formed, I had a secret design in my mind of coming here to satisfy my curiosity of knowing what London was.
+('1', 1, 6, 25, 3095) While I was prosecuting my college studies in
+('1', 1, 7, 26, 3141) 1 When his nephew and co worker, Chhaganlal Gandhi, was proceeding for the first time to London in 1909, Gandhiji gave him his London Diary The diary filled about 120 pages.
+('1', 1, 7, 27, 3315) Chhaganlal Gandhi gave it to Mahadev Desai in 1920. But, before doing so, he copied out in a notebook about 20 pages of the original.
+('1', 1, 7, 28, 3449) The remaining 100 pages were not continuous writing, but merely a chronicle of incidents during his stay in London from 1888 to 1891. The original being untraceable, Chhaganlals copy is reproduced here with minimum editing.
+('1', 1, 7, 29, 3673) Gandhiji wrote the diary in English when he was 19.
+('1', 2, 0, 1, 3725) VOL.1: 1884 30 NOVEMBER, 1896 3
+('1', 2, 1, 2, 3757) Bhavnagar 1, I had a chat with Jayshankar Buch.
+('1', 2, 1, 3, 3805) During the chat he advised me to apply to the Junagadh 2 State to give me a scholarship to proceed to London, I being an inhabitant of Sorath 3. I do not perfectly remember the answer I made to him that day.
+('1', 2, 1, 4, 4013) I suppose I felt the impossibility of getting the scholarship.
+('1', 2, 1, 5, 4076) From that [time] I had in my mind the intention of visiting the land.
+('1', 2, 1, 6, 4146) I was finding the means to reach that end.
+('1', 2, 1, 7, 4189) On 13th April, 1888, I left Bhavnagar to enjoy the vacation in Rajkot.
+('1', 2, 1, 8, 4260) After 15 days of vacation, my elder brother and I went to see Patwari.
+('1', 2, 1, 9, 4331) On our return my brother said : We would go to see Mavji Joshi 4, and so we went.
+('1', 2, 1, 10, 4413) Mavji Joshi asked me as usual how I did.
+('1', 2, 1, 11, 4454) Then put some questions about my study in Bhavnagar.
+('1', 2, 1, 12, 4507) I plainly told him that I had hardly any chance of passing my examination first year.
+('1', 2, 1, 13, 4593) I also added that I found the course very difficult.
+('1', 2, 1, 14, 4646) Hearing this, he advised my brother to send me as soon as possible to London for being called to the Bar.
+('1', 2, 1, 15, 4752) He said the expense will be only Rs. 5,000. Let him take some urad dal.
+('1', 2, 1, 16, 4824) There he will cook some food for himself and thereby there will be no objection about religion.
+('1', 2, 1, 17, 4920) Dont reveal the matter to anybody.
+('1', 2, 1, 18, 4955) Try to get some scholarship.
+('1', 2, 1, 19, 4984) Apply to Junagadh and Porbandar States.
+('1', 2, 1, 20, 5024) See my son Kevalram 5, and if you fail in getting the pecuniary help and if you have no money, sell your furniture.
+('1', 2, 1, 21, 5140) But anyhow send Mohandas to London.
+('1', 2, 1, 22, 5176) I think that is the only means to keep the reputation of your deceased father. All of our family members have great faith in what Mavji Joshi says.
+('1', 2, 1, 23, 5324) And my brother who is naturally very credulous made a promise to Mavji Joshi to send me to London.
+('1', 2, 1, 24, 5423) Now was the time for my exertions.
+('1', 2, 1, 25, 5458) On that very day my brother, notwithstanding his promise to keep the matter secret, told the thing to Khushalbhai 6. He, of course, approved of it in case I could observe my religion.
+('1', 2, 1, 26, 5642) The very day it was told to Meghjibhai 7. He quite agreed with the proposal and offered to give me Rs. 5,000. I had some faith in what he said.
+('1', 2, 1, 27, 5786) And when the matter was disclosed to my dear mother, she reproached me
+('1', 2, 2, 28, 5857) 1 Former princely States in Gujarat 2 ibid 3 A district in Saurashtra 4 Priest family friend and adviser of the Gandhi 5 Leading lawyer of Kathiwan.
+('1', 2, 2, 29, 6006) 6 Gandhijis cousin and father of Chhaganlal and Maganlal both of whom worked with him in South Africa.
+('1', 2, 2, 30, 6109) 7 Gandhijis cousin
+('1', 3, 0, 1, 6128) 4 THE COLLECTED WORKS OF MAHATMA GANDHI
+('1', 3, 1, 2, 6168) for being so credulous and she said I would never get any money from him when the time comes, which she thought never will come.
+('1', 3, 1, 3, 6297) On that day I was to (go to) Kevalrambhai.
+('1', 3, 1, 4, 6340) I saw him accordingly.
+('1', 3, 1, 5, 6363) There I had not a satisfactory chat.
+('1', 3, 1, 6, 6400) He no doubt approved of my object but said: You will have to spend there at least Rs. 10, 000. This was a great blow to me, and again he said: You will have to set aside all your religious prejudices, if any.
+('1', 3, 1, 7, 6609) You will have to eat meat, you must drink.
+('1', 3, 1, 8, 6652) You cannot live without that.
+('1', 3, 1, 9, 6682) The more you spend, the cleverer you will be.
+('1', 3, 1, 10, 6728) It is a very important thing.
+('1', 3, 1, 11, 6758) I speak to you frankly.
+('1', 3, 1, 12, 6782) Dont be offended; but, look here, you are still very young.
+('1', 3, 1, 13, 6842) There are many temptations in London.
+('1', 3, 1, 14, 6880) You are apt to be entrapped by them. I was partially dejected by this talk.
+('1', 3, 1, 15, 6956) But I am not a man who would, after having formed any intention, leave it easily.
+('1', 3, 1, 16, 7038) He illustrated his statement by giving example of Mr. Gulam Mahomed Munshi.
+('1', 3, 1, 17, 7114) I asked him whether he could help me in any way in getting the scholarship.
+('1', 3, 1, 18, 7190) He answered in the negative.
+('1', 3, 1, 19, 7219) He said he would very gladly do anything except that.
+('1', 3, 1, 20, 7273) I told everything to my brother.
+('1', 3, 1, 21, 7306) Then I was entrusted with the business of receiving the consent of my dear mother, which I thought was not an arduous task for me.
+('1', 3, 1, 22, 7437) After a day or two, my brother and I went to see Mr. Kevalram; there he saw us though he was very busy at that time.
+('1', 3, 1, 23, 7554) We had a talk of the similar kind that I had with him a day or two earlier.
+('1', 3, 1, 24, 7630) He advised my brother to send me to Porbandar.
+('1', 3, 1, 25, 7677) The proposal was agreed to.
+('1', 3, 1, 26, 7705) Then we returned.
+('1', 3, 1, 27, 7723) I began to introduce the subject to my mother in joke.
+('1', 3, 1, 28, 7778) The joke was turned to reality in no time.
+('1', 3, 1, 29, 7821) Then a day was fixed for my going to Porbandar.
+('1', 3, 1, 30, 7869) Twice or thrice I prepared to go, but some difficulty came in my way.
+('1', 3, 1, 31, 7939) Once I was to go with Zaverchand, but an hour before the time of my departure a serious accident took place.
+('1', 3, 1, 32, 8048) I was always quarrelling with my friend Sheikh Mehtab 1. On the day of departure I was quite engrossed in thinking about the quarrel.
+('1', 3, 1, 33, 8182) He had a musical party at night.
+('1', 3, 1, 34, 8215) I did not enjoy it very well.
+('1', 3, 1, 35, 8245) At about 10.30 p.m.
+('1', 3, 1, 36, 8265) the party ended and we all went to see Meghjibhai and Rami.
+('1', 3, 1, 37, 8325) On our way I was buried in the madcap thoughts of London on one side and the thoughts of Sheikh Mehtab on the other.
+('1', 3, 1, 38, 8442) Amidst thoughts, I came unconsciously in contact with a carriage.
+('1', 3, 1, 39, 8508) I received some injury.
+('1', 3, 1, 40, 8532) Yet I did not take the help of anybody in walking.
+('1', 3, 1, 41, 8583) I think I was quite dizzy.
+('1', 3, 1, 42, 8610) Then we entered the house of Meghjibhai.
+('1', 3, 1, 43, 8651) There I again came
+('1', 3, 2, 44, 8670) 1 Boyhood friend of Gandhiji whom he tried for several years to reform, but without success
+('1', 4, 0, 1, 8762) VOL.1: 1884 30 NOVEMBER, 1896 5
+('1', 4, 1, 2, 8794) in contact with a stone unknowingly and received injury.
+('1', 4, 1, 3, 8851) I was quite senseless.
+('1', 4, 1, 4, 8874) From that [time] I did not know what took place, and after that, I am told by them, I fell flat on the ground after some steps.
+('1', 4, 1, 5, 9002) I was not myself for 5 minutes.
+('1', 4, 1, 6, 9034) They considered I was dead.
+('1', 4, 1, 7, 9062) But fortunately for myself the ground on which I fell was quite smooth.
+('1', 4, 1, 8, 9134) I came to my senses at last and all of them were quite joyful.
+('1', 4, 1, 9, 9197) The mother was sent for.
+('1', 4, 1, 10, 9222) She was very sorry for me, and this caused my delay though I told them that I was quite well.
+('1', 4, 1, 11, 9316) But none would allow me to go, though I afterwards came to know that my bold and dearest mother would have allowed me to go.
+('1', 4, 1, 12, 9441) But she feared the calumny of other people.
+('1', 4, 1, 13, 9485) At last with great difficulty I was allowed to leave Rajkot for Porbandar after some days.
+('1', 4, 1, 14, 9576) On my way too I had to encounter some difficulties.
+('1', 4, 1, 15, 9628) At length I reached Porbandar to the joy of all.
+('1', 4, 1, 16, 9677) Lalbhai 1 and Karsondas 2 had come to the Khadi bridge to fetch me home.
+('1', 4, 1, 17, 9750) Now what had I to do in Porbandar [was to] exact consent from my uncle, and, secondly apply to Mr. Lely 3 to render me some pecuniary help, and last, in case of failure to get the State scholarship, to ask Parmanandbhai 4 to give me some money.
+('1', 4, 1, 18, 9995) The first thing I did was that I saw uncle and asked him whether he liked my going to London or not.
+('1', 4, 1, 19, 10096) Then, naturally, as I had expected, he asked me to enumerate the advantages of going to London.
+('1', 4, 1, 20, 10192) This I did according to my power.
+('1', 4, 1, 21, 10226) Then he said : Of course, the people of this generation would like it very much, but, as for myself, I do not like it.
+('1', 4, 1, 22, 10345) Nevertheless we shall consider afterwards. I was not disappointed by such an answer.
+('1', 4, 1, 23, 10430) At least I had the satisfaction to know that at all events he liked it inwardly and his deed proved what I thought right.
+('1', 4, 1, 24, 10552) Unfortunately for me, Mr. Lely was not in Porbandar.
+('1', 4, 1, 25, 10605) It is quite true that misfortunes never come single.
+('1', 4, 1, 26, 10658) After his return from the district where he had gone, he was to go at once on leave.
+('1', 4, 1, 27, 10743) My uncle advised me to wait for him till the next Sunday.
+('1', 4, 1, 28, 10801) And if he did not come up during that time, he said, he would send me where he should be.
+('1', 4, 1, 29, 10891) But it gives me much pleasure to write here that he returned from the district on Sunday.
+('1', 4, 1, 30, 10981) Then it was settled that I should see him on Monday.
+('1', 4, 1, 31, 11034) It was done accordingly.
+('1', 4, 1, 32, 11059) For the first time in my life I had an interview with an English gentleman.
+('1', 4, 1, 33, 11135) Formerly I never dared to front them.
+('1', 4, 1, 34, 11173) But thoughts of London made me bold.
+('1', 4, 1, 35, 11210) I had small
+('1', 4, 2, 36, 11222) 1 Gandhis cousin 2 Gandhis elder brother 3 British Agent in Porbandhar State during the minority of the Prince 4 Gandhijis Cousin
+('1', 5, 0, 1, 11352) 6 THE COLLECTED WORKS OF MAHATMA GANDHI
+('1', 5, 1, 2, 11392) talk with him in Gujarati.
+('1', 5, 1, 3, 11419) He was quite in a hurry.
+('1', 5, 1, 4, 11444) He saw me when he was ascending the ladder of the upper storey of his bungalow.
+('1', 5, 1, 5, 11524) He said the Porbandar State was very poor and could not give me any pecuniary help.
+('1', 5, 1, 6, 11608) However, he said, I should first graduate in India and then he would see if he could render me any help.
+('1', 5, 1, 7, 11713) Indeed such an answer from him quite disappointed me.
+('1', 5, 1, 8, 11767) I did not expect such a reply from him.
+('1', 5, 1, 9, 11807) Now what I had to do was to ask Parmanandbhai to give me Rs. 5,000. He said he would very gladly give them if my uncle approved of my going to London.
+('1', 5, 1, 10, 11958) I thought this to be rather a difficult task, yet I was determined upon exacting his consent.
+('1', 5, 1, 11, 12052) I saw him when he was busy doing something, and addressed him thus : Uncle, now tell me what you really think of my going.
+('1', 5, 1, 12, 12175) My chief aim in coming here is to exact your consent. Then he replied : I cannot approve of it.
+('1', 5, 1, 13, 12271) Dont you know that I am going on a pilgrimage, and is it not disgraceful on my part to say that I like that people should go to London?
+('1', 5, 1, 14, 12407) However, if your mother and brother like it, I do not at all object to it. But then, I said, you dont know that you prevent Parmanandbhai from rendering me pecuniary help by refusing to allow my going to London. Just as I uttered these words, he said in an angry tone: Is it so?
+('1', 5, 1, 15, 12686) My dear chap, you dont know why he says so.
+('1', 5, 1, 16, 12730) He knows that I will never approve of your going and so he brings forth this excuse.
+('1', 5, 1, 17, 12815) But the real thing is that he is never to render you any help of the kind.
+('1', 5, 1, 18, 12890) I do not prevent him from doing so. Thus ended our talk.
+('1', 5, 1, 19, 12947) Then I gaily ran off and saw Parmanandbhai and word by word related what took place between my uncle and myself.
+('1', 5, 1, 20, 13060) He too was quite angry when he heard this and at the same time made a promise to give me Rs. 5,000. I was quite overjoyed when he made a promise, and what pleased me more was that he swore by his son.
+('1', 5, 1, 21, 13261) Now from that day I began to think that I would surely go to London.
+('1', 5, 1, 22, 13330) Then I stayed some days in Porbandar and the more I stayed there the more I was assured of the promise.
+('1', 5, 1, 23, 13434) Now here is what took place at Rajkot during my absence.
+('1', 5, 1, 24, 13491) My friend Sheikh Mehtab who, I should say, is very full of tricks, reminded Meghjibhai of his promise and forged a letter with my signature in which he wrote that I stood in need of Rs. 5,000 and so on.
+('1', 5, 1, 25, 13694) The letter was shown to him and it actually passed for a letter written by me.
+('1', 5, 1, 26, 13773) Then, of course, he was quite puffed up and made a solemn promise of giving me Rs. 5,000. I was not informed of this until I reached Rajkot.
+('1', 6, 0, 1, 13914) VOL.1: 1884 30 NOVEMBER, 1896 7
+('1', 6, 1, 2, 13946) Now to return again to Porbandar.
+('1', 6, 1, 3, 13980) At length a day was fixed for my departure and I bade farewell to my family members and was set off for Rajkot, with my brother Karsondas and Meghjis father, really an incarnation of miserliness.
+('1', 6, 1, 4, 14176) Before going to Rajkot, I went to Bhavnagar to sell off my furniture, and discontinue the rent of the house.
+('1', 6, 1, 5, 14285) I did it only in one day and was separated from the friends in the neighbourhood, not without tears from them and my kind landlady.
+('1', 6, 1, 6, 14417) I should never forget their kindness and that of Anopram and others.
+('1', 6, 1, 7, 14486) Having done this, I reached Rajkot.
+('1', 6, 1, 8, 14522) But I was to see Colonel Watson 1 before my departure for three years.
+('1', 6, 1, 9, 14593) He was to come to Rajkot on the 19th June, 1888. Indeed it was a long time for me because I reached Rajkot in the beginning of May.
+('1', 6, 1, 10, 14725) But I could not help.
+('1', 6, 1, 11, 14747) My brother entertained very high hopes of Colonel Watson.
+('1', 6, 1, 12, 14805) These days were indeed hard days.
+('1', 6, 1, 13, 14839) I could not sleep well at night, was always attacked by dreams.
+('1', 6, 1, 14, 14903) Some persons dissuaded me from going to London and some advised me to do so.
+('1', 6, 1, 15, 14980) Sometimes my mother too asked me not to go, and what was very strange that not infrequently my brother also changed his mind.
+('1', 6, 1, 16, 15106) So I was held in suspense.
+('1', 6, 1, 17, 15133) But, as all of them knew that I should not leave off anything having first begun it, they were silent.
+('1', 6, 1, 18, 15236) During the time, I was asked by my brother to sound the mind of Meghjibhai about his promise.
+('1', 6, 1, 19, 15330) The result was quite disappointing, of course, and from that time he always acted the part of an enemy.
+('1', 6, 1, 20, 15434) He spoke ill of me before anybody and everybody.
+('1', 6, 1, 21, 15483) But I was quite able to disregard his taunts.
+('1', 6, 1, 22, 15529) My dearest mother was quite angry with him for this and sometimes uneasy.
+('1', 6, 1, 23, 15603) But I could easily console her, and I have the satisfaction to see that I have very often consoled her with success and have made her laugh heartily when she, my dear, dear mother, should be shedding tears on my account.
+('1', 6, 1, 24, 15824) At last Colonel Watson came.
+('1', 6, 1, 25, 15853) I saw him.
+('1', 6, 1, 26, 15864) He said: I shall think about it, but I never got any help from him.
+('1', 6, 1, 27, 15932) I am sorry to say that it was with difficulty that I could take a trivial note of introduction which, he said in a peremptory voice, was worth one lac of rupees.
+('1', 6, 1, 28, 16094) Now really it makes me laugh.
+('1', 6, 1, 29, 16124) Then a day was fixed for my departure.
+('1', 6, 1, 30, 16163) At first it was the fourth of August.
+('1', 6, 1, 31, 16201) The matter was now brought to a crisis.
+('1', 6, 1, 32, 16241) The fact I was to go to England went through the Press.
+('1', 6, 1, 33, 16297) My brother was always asked by some persons about my going.
+('1', 6, 1, 34, 16357) Now was the time when he told me to leave off the intention of going, but I would not do that.
+('1', 6, 1, 35, 16452) Then he
+('1', 6, 2, 36, 16460) 1 Political Agent of Kathiawar, stationed at Rajkot
+('1', 7, 0, 1, 16512) 8 THE COLLECTED WORKS OF MAHATMA GANDHI
+('1', 7, 1, 2, 16552) saw H. H. the Thakoresaheb 1 of Rajkot and requested him to render me some pecuniary help.
+('1', 7, 1, 3, 16643) But no help was obtained therefrom.
+('1', 7, 1, 4, 16679) Then for the last time I saw Thakoresaheb and Colonel Watson.
+('1', 7, 1, 5, 16741) I received a note of introduction from the latter and a photo from the former.
+('1', 7, 1, 6, 16820) Here I must write that the fulsome flattery which I had to practise about this time had quite made me angry.
+('1', 7, 1, 7, 16929) Had it not been for my credulous and dearest brother, I would never have resorted to such a piece of gross flattery.
+('1', 7, 1, 8, 17046) After all, the 10th August came and my brother, Sheikh Mehtab, Mr. Nathubhai, Khushalbhai and I started.
+('1', 7, 1, 9, 17151) I left Rajkot for Bombay.
+('1', 7, 1, 10, 17177) It was Friday night.
+('1', 7, 1, 11, 17198) I was given an address by my school fellows.
+('1', 7, 1, 12, 17243) I was quite uneasy when I rose up to answer the address.
+('1', 7, 1, 13, 17300) 2 When I spoke half of what I had to speak, I began to shake.
+('1', 7, 1, 14, 17362) I hope I will not do it again when I return to India.
+('1', 7, 1, 15, 17416) Before proceeding further I must write.
+('1', 7, 1, 16, 17456) Many had come to bid me farewell on the night.
+('1', 7, 1, 17, 17503) Messrs Kevalram, Chhaganlal (Patwari), Vrajlal, Harishankar, Amolakh, Manekchand, Latib, Popat, Bhanji, Khimji, Ramji, Damodar, Meghji, Ramji Kalidas, Naranji, Ranchhoddas, Manilal were among those who came to did farewell.
+('1', 7, 1, 18, 17727) Jatashankar Vishvanath and others may be added.
+('1', 7, 1, 19, 17775) The first station was Gondal.
+('1', 7, 1, 20, 17805) There we saw Dr. Bhau and took Kapurbhai with us.
+('1', 7, 1, 21, 17855) Nathubhai came as far as Jetpur.
+('1', 7, 1, 22, 17888) At Dhola, Usmanbhai met us and he came as far as Wadhwan.
+('1', 7, 1, 23, 17946) At Dhola, Messrs Narandas, Pranshankar, Narbheram, Anandrai and Vrajlal had come to bid farewell.
+('1', 7, 1, 24, 18044) Twenty first was the day on which I was to leave Bombay.
+('1', 7, 1, 25, 18101) But the difficulties which I had to withstand in Bombay are indescribable.
+('1', 7, 1, 26, 18176) My caste fellows tried their best to prevent me from proceeding further.
+('1', 7, 1, 27, 18249) Almost all of them were in opposition.
+('1', 7, 1, 28, 18288) And at length my brother Khushalbhai and Patwari himself advised me not to go.
+('1', 7, 1, 29, 18367) But I wouldnt give heed to their advice.
+('1', 7, 1, 30, 18408) Then the sea weather was the excuse which delayed my proceeding.
+('1', 7, 1, 31, 18473) My brother and others then left me.
+('1', 7, 1, 32, 18509) But on a sudden I left Bombay on the 4th September 1888. At this time I was very much obliged to Messrs Jagmohandas, Damodardas and Bechardas.
+('1', 7, 1, 33, 18652) To Shamalji, of course, I owe immense obligation, and what I owe to Ranchhodlal 3 I dont know.
+('1', 7, 1, 34, 18747) It is something more than obligation.
+('1', 7, 1, 35, 18785) Messrs Jagmohandas, Manshankar,
+('1', 7, 2, 36, 18817) 1 Ruler of the State 2 Vide Speech at Alfred High School, Rajkot, 4 7 1888. 3 Ranchhodlal Patwari was very close to Gandhiji with whom he was in corres pondence.
+('1', 7, 2, 37, 18979) Patwaris father helped him financially to go to England.
+('1', 8, 0, 1, 19036) VOL.1: 1884 30 NOVEMBER, 1896 9
+('1', 8, 1, 2, 19068) Bechardas, Narayandas Patwari, Dwarkadas, Popatlal, Kashidas, Ranchhodlal, Modi, Thakore, Ravi Shankar, Pherozeshah, Ratanshah, Shamalji and some others came to see me off on board the steamer, Clyde.
+('1', 8, 1, 3, 19269) Of these, Patwari gave me Rs. 5, Shamalji as many, Modi two, Kashidas one, Narandas two, and some others whom I forget.
+('1', 8, 1, 4, 19389) Mr. Manshankar gave me a silver chain, and then they all of them bade farewell for three years and departed.
+('1', 8, 1, 5, 19498) Before finishing this, I must write that had it been some other man in the same position which I was in, I dare say he would not have been able to see England.
+('1', 8, 1, 6, 19658) The difficulties which I had to withstand have made England dearer to me than she would have been.
+('1', 8, 2, 7, 19757) SEPTEMBER 4, 1888
+('1', 8, 3, 8, 19775) The sea voyage.
+('1', 8, 3, 9, 19791) It was about 5 p.m.
+('1', 8, 3, 10, 19811) when the ship weighed anchor.
+('1', 8, 3, 11, 19841) I was very anxious about the voyage but fortunately it agreed with me.
+('1', 8, 3, 12, 19912) Throughout the voyage I was not at all sea sick and I had no vomiting.
+('1', 8, 3, 13, 19983) It was for the first time in my life that I sailed in a steamship.
+('1', 8, 3, 14, 20050) I enjoyed the voyage very much.
+('1', 8, 3, 15, 20082) At about 6 oclock the dinner bell was rung.
+('1', 8, 3, 16, 20126) The steward asked me to go to the table.
+('1', 8, 3, 17, 20167) But I did not go and ate what I had brought with me.
+('1', 8, 3, 18, 20220) I was very much surprised at the liberty which Mr. Mazmudar took with me on the first night.
+('1', 8, 3, 19, 20313) He spoke to me in such a manner as if we were very old acquaintances.
+('1', 8, 3, 20, 20383) He had no black coat.
+('1', 8, 3, 21, 20405) So I gave him mine for dinner.
+('1', 8, 3, 22, 20436) He went to the table.
+('1', 8, 3, 23, 20458) From that night I liked him very much.
+('1', 8, 3, 24, 20497) He entrusted his keys to me, and I began to look upon him as my elder brother from that very night.
+('1', 8, 3, 25, 20597) There was one Maratha doctor with us as far as Aden.
+('1', 8, 3, 26, 20650) He, on the whole, looked like a good man.
+('1', 8, 3, 27, 20692) Thus for two days I lived upon the sweetmeat and fruits which I had on board with me.
+('1', 8, 3, 28, 20778) Then Mr. Mazmudar made an agreement with some boys on board to cook us food.
+('1', 8, 3, 29, 20855) I would never have been able to make such an agreement.
+('1', 8, 3, 30, 20911) There was one Abdul Majid who was a first class passenger while we were saloon passengers.
+('1', 8, 3, 31, 21002) We enjoyed our dinner cooked by the boy.
+('1', 8, 3, 32, 21043) Now something about the steamship.
+('1', 8, 3, 33, 21078) I liked the arrangements of the steamer very much.
+('1', 8, 3, 34, 21129) When we sit in the cabins or saloon, we forget that the cabins and the saloons are a part of the ship.
+('1', 8, 3, 35, 21232) We sometimes do not feel the motion at all.
+('1', 8, 3, 36, 21276) The dexterity of the workmen and the sailors was indeed admirable.
+('1', 8, 3, 37, 21343) There were musical instruments in the steamer.
+('1', 8, 3, 38, 21390) I every now and then played upon the piano.
+('1', 8, 3, 39, 21434) There were cards, chessboard and draughts on the board.
+('1', 8, 3, 40, 21490) The European passengers always played some games at night.
+('1', 8, 3, 41, 21549) The decks are a great relief to the passengers.
+('1', 8, 3, 42, 21597) You are generally tired of sitting in the
+('1', 9, 0, 1, 21639) 10 THE COLLECTED WORKS OF MAHATMA GANDHI
+('1', 9, 1, 2, 21680) cabins.
+('1', 9, 1, 3, 21688) On the decks you get fresh air.
+('1', 9, 1, 4, 21720) You can mix with and talk with the fellow passengers if you are bold and have got that stuff.
+('1', 9, 1, 5, 21814) The scene of the sea when the sky is clear is lovely.
+('1', 9, 1, 6, 21868) On one moonlight night I was watching the sea.
+('1', 9, 1, 7, 21915) I could see the moon reflected in the water.
+('1', 9, 1, 8, 21960) On account of the waves, the moon appeared as if she were moving here and there.
+('1', 9, 1, 9, 22041) One dark night when the sky was clear the stars were reflected in the water.
+('1', 9, 1, 10, 22118) The scene around us was very beautiful at that time.
+('1', 9, 1, 11, 22171) I could not at first imagine what that was.
+('1', 9, 1, 12, 22215) They appeared like so many diamonds.
+('1', 9, 1, 13, 22252) But I knew that a diamond could not float.
+('1', 9, 1, 14, 22295) Then I thought that they must be some insects which can only be seen at night.
+('1', 9, 1, 15, 22374) Amidst these reflections I looked at the sky and at once found that it was nothing but stars reflected in waters.
+('1', 9, 1, 16, 22488) I laughed at my folly.
+('1', 9, 1, 17, 22511) This reflection of the stars gives us the idea of fireworks.
+('1', 9, 1, 18, 22572) Fancy yourself to be standing on the storey of a bungalow watching the fireworks performed before you.
+('1', 9, 1, 19, 22675) I very often enjoyed this scene.
+('1', 9, 1, 20, 22708) For some days I did not speak a word to the fellow passengers.
+('1', 9, 1, 21, 22771) I always got up at 8 a.m.
+('1', 9, 1, 22, 22797) in the morning, washed my teeth, then went to the w.c.
+('1', 9, 1, 23, 22852) and took my bath.
+('1', 9, 1, 24, 22870) The arrangement of the English water closets astonished a native passenger.
+('1', 9, 1, 25, 22946) We do not get there water and are obliged to use pieces of paper.
+('1', 9, 1, 26, 23012) After enjoying the sea voyage for about five days, we reached Aden.
+('1', 9, 1, 27, 23080) During these days not a single piece of land or a mountain was seen by us.
+('1', 9, 1, 28, 23155) All of us were tired of the monotony of the voyage and were eager to see land.
+('1', 9, 1, 29, 23234) At last on the morning of the 6th day we saw land.
+('1', 9, 1, 30, 23285) All looked gay and cheerful.
+('1', 9, 1, 31, 23314) At about 11 a.m.
+('1', 9, 1, 32, 23331) we anchored at Aden.
+('1', 9, 1, 33, 23352) Some boys came with small boats.
+('1', 9, 1, 34, 23385) They were great swimmers.
+('1', 9, 1, 35, 23411) Some Europeans threw some money in the waters.
+('1', 9, 1, 36, 23458) They went deep into the waters and found out the money.
+('1', 9, 1, 37, 23514) I wish I could do so.
+('1', 9, 1, 38, 23536) This was a pretty sight.
+('1', 9, 1, 39, 23561) We, after enjoying this sight for about half an hour, went to see Aden.
+('1', 9, 1, 40, 23633) I must say here that we simply saw the boys finding out the pieces.
+('1', 9, 1, 41, 23701) Ourselves did not throw a single pie.
+('1', 9, 1, 42, 23739) From this day we began to experience the idea of expenses of England.
+('1', 9, 1, 43, 23809) We were three persons and had to pay two rupees for boat hire.
+('1', 9, 1, 44, 23872) The coast was hardly at a miles distance.
+('1', 9, 1, 45, 23914) We reached the coast in 15 minutes.
+('1', 9, 1, 46, 23950) Then we hired a carriage.
+('1', 9, 1, 47, 23976) We intended to go to see the waterworks which are the only object of interest in Aden.
+('1', 9, 1, 48, 24063) But, unfortunately, the time being up we could not go there.
+('1', 9, 1, 49, 24124) We saw the Camp of Aden.
+('1', 9, 1, 50, 24149) It was good; the buildings were good.
+('1', 9, 1, 51, 24187) They were generally shops.
+('1', 9, 1, 52, 24214) The construction of the buildings was most probably like that of the bungalows in Rajkot and especially the new bungalow of the Political Agent.
+('1', 9, 1, 53, 24359) I could not
+('1', 10, 0, 1, 24371) VOL.1: 1884 30 NOVEMBER, 1896 11
+('1', 10, 1, 2, 24404) see any well or any place of fresh water there.
+('1', 10, 1, 3, 24452) I am afraid that perhaps the tanks are the only place for fresh water.
+('1', 10, 1, 4, 24523) The heat of the sun was excessive.
+('1', 10, 1, 5, 24558) I was quite wet with perspiration.
+('1', 10, 1, 6, 24593) This was because we were not far from the Red Sea.
+('1', 10, 1, 7, 24644) What astonished me more was that I saw not a single tree or a green plant.
+('1', 10, 1, 8, 24719) Men rode on mules or asses.
+('1', 10, 1, 9, 24747) We could hire mules if we liked.
+('1', 10, 1, 10, 24780) The camp is situated on the hill.
+('1', 10, 1, 11, 24814) I heard from the boatman, when we returned, that the boys of whom I wrote above are sometimes injured.
+('1', 10, 1, 12, 24917) The legs of some and arms of others are cut off by sea animals.
+('1', 10, 1, 13, 24981) But still the boys, being very poor, sat each in their small boats in which we dare not sit.
+('1', 10, 1, 14, 25074) Each of us had to pay one rupee for the carriage fare.
+('1', 10, 1, 15, 25129) The anchor was weighed at 12 a.m.
+('1', 10, 1, 16, 25163) and we left Aden.
+('1', 10, 1, 17, 25181) But from this day we always saw some land.
+('1', 10, 1, 18, 25224) In the evening we entered the Red Sea.
+('1', 10, 1, 19, 25263) We began to feel the heat.
+('1', 10, 1, 20, 25290) But I dont think it was so scorching, as is described by some in Bombay.
+('1', 10, 1, 21, 25363) Indeed it was unbearable in the cabins.
+('1', 10, 1, 22, 25403) You cannot expose yourself to the sun.
+('1', 10, 1, 23, 25442) You will not like to stay even for a few minutes in your cabin.
+('1', 10, 1, 24, 25506) But if you are on the deck you are sure to receive pleasant gales of fresh air.
+('1', 10, 1, 25, 25586) At least I did so.
+('1', 10, 1, 26, 25605) Almost all the passengers slept on the deck and so did I. The heat of the new morning sun, too, you cannot bear.
+('1', 10, 1, 27, 25718) You are always safe when you are on the deck.
+('1', 10, 1, 28, 25764) This heat we generally get for three days.
+('1', 10, 1, 29, 25807) Then we entered the Suez on the fourth night.
+('1', 10, 1, 30, 25853) We could see the lamps in the Suez from a great distance.
+('1', 10, 1, 31, 25911) The Red Sea was sometimes broad and sometimes quite narrow.
+('1', 10, 1, 32, 25971) So narrow that we can see the land on both the sides.
+('1', 10, 1, 33, 26025) Before entering the Suez Canal we passed the Hellsgate.
+('1', 10, 1, 34, 26081) Hellsgate is a strip of water very narrow, bound on both the sides by hills.
+('1', 10, 1, 35, 26158) It is so called because many ships are wrecked at that place.
+('1', 10, 1, 36, 26220) We saw the wreck of a ship in the Red Sea.
+('1', 10, 1, 37, 26263) We stayed at Suez for about half an hour.
+('1', 10, 1, 38, 26305) Now it was said that we shall receive cold.
+('1', 10, 1, 39, 26349) Some said that you will require liquor after leaving Aden.
+('1', 10, 1, 40, 26408) But it was false.
+('1', 10, 1, 41, 26426) Now I had begun to talk a little with the fellow passengers.
+('1', 10, 1, 42, 26487) They said, after leaving Aden you will require meat: but it was not so.
+('1', 10, 1, 43, 26559) For the first time in my life I saw the electric light in the front of our ship.
+('1', 10, 1, 44, 26640) It appeared like moonlight.
+('1', 10, 1, 45, 26668) The front part of the ship appeared very beautiful.
+('1', 10, 1, 46, 26720) I think it must appear more beautiful to a man seeing it, placed on some other place, just as we cannot enjoy the beauty of our person as others, i.e., we cannot see it to advantage.
+('1', 10, 1, 47, 26903) The construction of the Suez Canal I am not able to understand.
+('1', 10, 1, 48, 26967) It is indeed marvellous.
+('1', 10, 1, 49, 26992) I cannot think of the genius of a man who invented it.
+('1', 10, 1, 50, 27047) I dont know how he would have done it.
+('1', 10, 1, 51, 27086) It is quite right to say that he has competed with nature.
+('1', 10, 1, 52, 27145) It is not an easy
+('1', 11, 0, 1, 27163) 12 THE COLLECTED WORKS OF MAHATMA GANDHI
+('1', 11, 1, 2, 27204) task to join two seas.
+('1', 11, 1, 3, 27227) Only one ship can pass through the Canal at a time.
+('1', 11, 1, 4, 27279) It requires skilful pilotship.
+('1', 11, 1, 5, 27310) The ship sails at a very low motion.
+('1', 11, 1, 6, 27347) We cannot feel its motion.
+('1', 11, 1, 7, 27374) The water of the Canal is quite dirty.
+('1', 11, 1, 8, 27413) I forget its depth.
+('1', 11, 1, 9, 27433) It is as broad as the Aji 1 at Ramnath.
+('1', 11, 1, 10, 27473) You can see men passing by on both the sides.
+('1', 11, 1, 11, 27519) The part near the Canal is barren.
+('1', 11, 1, 12, 27554) The Canal belongs to the French.
+('1', 11, 1, 13, 27587) Another pilot comes from Ismailia to direct the ship.
+('1', 11, 1, 14, 27641) The French take a certain sum of money for every ship that passes through the Canal.
+('1', 11, 1, 15, 27726) The income must be very large.
+('1', 11, 1, 16, 27757) Besides the electric lamp in the ship, there are seen lights at a distance of some 20 feet on both sides.
+('1', 11, 1, 17, 27863) These are the lights of different colours.
+('1', 11, 1, 18, 27906) The ship has to pass these rows of lights.
+('1', 11, 1, 19, 27949) It takes about 24 hours to pass through the Canal.
+('1', 11, 1, 20, 28000) The beauty of the scene is beyond my power to describe.
+('1', 11, 1, 21, 28056) You cannot enjoy it unless you see it.
+('1', 11, 1, 22, 28095) Port Said is the terminus of the Canal.
+('1', 11, 1, 23, 28135) Port Said owes its existence to the Suez Canal.
+('1', 11, 1, 24, 28183) We anchored at Port Said in the evening.
+('1', 11, 1, 25, 28224) The ship was to stay there for an hour, but one hour was quite sufficient to see Port Said.
+('1', 11, 1, 26, 28316) Now the currency was English.
+('1', 11, 1, 27, 28346) Indian money is quite useless here.
+('1', 11, 1, 28, 28382) The boat fare is six pence each.
+('1', 11, 1, 29, 28415) A penny is worth one anna.
+('1', 11, 1, 30, 28442) The construction of the Port Said building is French.
+('1', 11, 1, 31, 28496) Here we get an idea of the French life.
+('1', 11, 1, 32, 28536) There we saw some coffee restaurants.
+('1', 11, 1, 33, 28574) At the first I thought it was a theatre.
+('1', 11, 1, 34, 28615) But it was nothing but a coffee house.
+('1', 11, 1, 35, 28654) [On] one side we drink coffee or soda or tea or any drink, and on the other we hear music.
+('1', 11, 1, 36, 28745) Some women are playing fiddle bands.
+('1', 11, 1, 37, 28782) A bottle of lemonade in these cafes, as they are called, will cost you 12 pence, which we get for less than a penny in Bombay.
+('1', 11, 1, 38, 28909) Customers are said to hear music gratis.
+('1', 11, 1, 39, 28950) But really it is not so.
+
